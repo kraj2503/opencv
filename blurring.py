@@ -1,3 +1,7 @@
 import cv2 as cv
 
-img = cv.imread('7')
+img = cv.imread('opencv\photos\pboston.jpg')
+
+cv.imshow(img)
+
+cv.waitKey(0)
