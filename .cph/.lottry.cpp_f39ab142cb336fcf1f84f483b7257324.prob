@@ -1,0 +1,1 @@
+{"name":"Local: lottry","url":"c:\\Users\\kshit\\OneDrive\\Desktop\\opencv\\opencv\\lottry.cpp","tests":[{"id":1662036930790,"input":"1\n3\n5 10 3\n010","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kshit\\OneDrive\\Desktop\\opencv\\opencv\\lottry.cpp","group":"local","local":true}

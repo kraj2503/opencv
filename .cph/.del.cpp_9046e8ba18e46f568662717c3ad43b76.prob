@@ -1,0 +1,1 @@
+{"name":"Local: del","url":"c:\\Users\\kshit\\OneDrive\\Desktop\\opencv\\opencv\\del.cpp","tests":[{"id":1662040461661,"input":"3 \ncccd \ncdc \ncd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kshit\\OneDrive\\Desktop\\opencv\\opencv\\del.cpp","group":"local","local":true}
